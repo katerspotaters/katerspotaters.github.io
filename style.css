@@ -70,6 +70,10 @@ p {
 	width: 45%;
 	
 }
+#center {
+			float:center;
+			width: 45%;
+}
 
 table {
 	border: #000000 1px solid;
