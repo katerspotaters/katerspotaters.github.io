@@ -15,6 +15,11 @@ h2 {
 	height: 300px;
 	width: 300px;
 	box-shadow: rgba(0,0,0,0.2) 10px 10px;
+}
+.willie #left img {
+	height:300px;
+	width:450px;
+}
 
 }
 
@@ -32,6 +37,7 @@ h2 {
 ul{
 	list-style-type: none;
 	margin: -10px;
+	text-align:center;
 }
 
 li {
@@ -57,22 +63,26 @@ a.contact:hover {color:#DDDDDD;}
 #left{
 	float:left;
 	width: 45%;
-	
 }
+
+#Willow {margin-top:25px;}
+#protect {margin-top:25px;}
 
 p {
 	font-family: Tahoma;
 	font-size: 1em;
+	margin:0;
 }
 
 #right{
 	float:right;
-	width: 45%;
+	width: 45%;}
+
+#right a {color:navy;
+		text-decoration:none;}
+				
+#right a:hover {color:#DDDDDD}
 	
-}
-#center {
-			float:center;
-			width: 45%;
 }
 
 table {
@@ -90,8 +100,8 @@ td {
 }
 
 td img {
-	height: 150px;
-	width: 150px;
+	height: 200px;
+	width: 200px;
 	box-shadow: none;
 }
 
@@ -175,10 +185,8 @@ div {
 }
 
 h4 {
-	margin-left: 5px;
 	margin-bottom: 15px;
 	font-family: Verdana, sans-serif;
-}
 
 .right p {
 	margin-left: 5px;
@@ -195,3 +203,9 @@ li {
 a:hover {
 	font-weight: bold;
 }
+
+.Rosie  {text-align:center;
+		color: #acd1b2;}
+		
+
+		
