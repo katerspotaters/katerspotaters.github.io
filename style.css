@@ -12,13 +12,15 @@ h2 {
 }
 
 .homepage #left img {
-	height: 300px;
-	width: 300px;
+	height: 400px;
+	width: 400px;
 	box-shadow: rgba(0,0,0,0.2) 10px 10px;
 }
 .willie #left img {
-	height:300px;
-	width:450px;
+	height:450px;
+	width:600px;
+	margin-left:55px;
+	
 }
 
 }
@@ -38,6 +40,7 @@ ul{
 	list-style-type: none;
 	margin: -10px;
 	text-align:center;
+	font-size:20px;
 }
 
 li {
@@ -65,8 +68,12 @@ a.contact:hover {color:#DDDDDD;}
 	width: 45%;
 }
 
-#Willow {margin-top:25px;}
-#protect {margin-top:25px;}
+#Willow {margin-top:25px;
+		font-size:20px;}
+#Regina{margin-top:25px;
+		text-align:center;}
+#protect {margin-top:25px;
+			font-size:20px;}
 
 p {
 	font-family: Tahoma;
@@ -100,8 +107,8 @@ td {
 }
 
 td img {
-	height: 200px;
-	width: 200px;
+	height: 225px;
+	width: 225px;
 	box-shadow: none;
 }
 
@@ -123,6 +130,7 @@ th {
 	border-bottom-right-radius: 15px;
 	padding:10px;
 	background-color: #3c4543;
+	text-align:center;
 }
 
 #button{
@@ -206,6 +214,10 @@ a:hover {
 
 .Rosie  {text-align:center;
 		color: #acd1b2;}
+		
+
+
+
 		
 
 		
