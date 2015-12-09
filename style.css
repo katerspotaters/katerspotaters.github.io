@@ -17,13 +17,11 @@ h2 {
 	box-shadow: rgba(0,0,0,0.2) 10px 10px;
 }
 .willie #left img {
-	height:450px;
-	width:600px;
+	width:100%;
 	margin-left:55px;
 	
 }
 
-}
 
 #navbar {
 	text-align:center;
@@ -67,6 +65,7 @@ a.contact:hover {color:#DDDDDD;}
 	float:left;
 	width: 45%;
 }
+#left img {width:100%;}
 
 #Willow {margin-top:25px;
 		font-size:20px;}
@@ -195,7 +194,7 @@ div {
 
 h4 {
 	margin-bottom: 15px;
-	font-family: Verdana, sans-serif;
+	font-family: Verdana, sans-serif;}
 
 .right p {
 	margin-left: 5px;
