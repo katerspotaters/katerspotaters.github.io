@@ -68,9 +68,14 @@ a.contact:hover {color:#DDDDDD;}
 #left img {width:100%;}
 
 .about-me #left {height:800px;}
-.about-me #left img {max-height:100%;
+.about-me #left img {max-height:75%;
 					max-width:75%;
+					margin-left:70px;
 					width:inherit;}
+.lola {width:interit;
+		max-height:75%;
+		max-width:75%;
+		margin-left:50px;}
 
 #Willow {margin-top:25px;
 		font-size:20px;}
