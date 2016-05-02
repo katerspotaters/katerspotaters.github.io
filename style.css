@@ -61,17 +61,21 @@ li {
 }
 a.contact:hover {color:#DDDDDD;}
 
-#left{
+.left{
 	float:left;
 	width: 45%;
 }
-#left img {width:100%;}
+.left img {width:100%;}
 
-.about-me #left {height:800px;}
+.about-me #left {height:800px;
+}
 .about-me #left img {max-height:75%;
 					max-width:75%;
 					margin-left:70px;
-					width:inherit;}
+					width:inherit;
+                    margin: 0px;
+        }
+ #rightme { margin: 0px;}
 .lola {width:interit;
 		max-height:75%;
 		max-width:75%;
